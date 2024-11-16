@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://snv-group-pl.github.io/sitemap.xml
